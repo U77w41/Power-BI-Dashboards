@@ -46,3 +46,5 @@ Contributions are welcome! If you'd like to add a new dashboard or improve an ex
 3. Submit a pull request with a detailed description of your changes.
 
 # 📂 Projects Overview
+
+## Visualizing Microsoft AdventureWorks Data
