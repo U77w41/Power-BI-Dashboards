@@ -8,20 +8,19 @@ This repository showcases a collection of Power BI projects, each designed to an
 
 Each dashboard project is contained in its own folder with the following structure:
 
-
 # Project Structure
 
 Each dashboard project is contained in its own folder with the following structure:
 
 ```
 Project-Name/
-├── Dashboard.pbix    # Power BI file
+├── Dashboard.pbix   # Power BI file
+├── templete.py	     # Generates the project structure
 ├── Data/            # Sample/raw data
 ├── Images/          # Dashboard screenshots or previews
 ├── Documentation.md # Detailed explanation of the project
 └── Scripts/         # DAX, Power Query, or Python scripts
 ```
-
 
 ## 🔧 How to Use
 
